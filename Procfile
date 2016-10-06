@@ -1,1 +1,1 @@
-web: gunicorn tmpapi.wsgi --log-file -
+web: gunicorn tmpapp.tmpapi.wsgi --log-file -

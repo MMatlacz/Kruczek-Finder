@@ -36,3 +36,4 @@ traitlets==4.3.0
 Unipath==1.1
 Wand==0.4.3
 wcwidth==0.1.7
+gunicorn==19.6.0
